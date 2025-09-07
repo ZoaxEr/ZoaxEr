@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
@@ -43,19 +43,19 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ZoaxEr&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoaxEr&layout=compact&theme=tokyonight)  
-![ZoaxEr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoaxEr&show_icons=true&theme=tokyonight)  
-
----
-
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://yourwebsite.com)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
+<p align="left">
+  <a href="https://linkedin.com/in/ZoaxEr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://zoaxer.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:zoaxerr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
-✨ *Always building. Always learning. Always experimenting.*  
+✨ *No Plan To Retire.*  
