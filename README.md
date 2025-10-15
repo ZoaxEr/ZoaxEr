@@ -49,9 +49,9 @@
   <a href="https://linkedin.com/in/ZoaxEr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://zoaxer.com" target="_blank">
+  <!-- <a href="https://zoaxer.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
   <a href="mailto:zoaxerr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
